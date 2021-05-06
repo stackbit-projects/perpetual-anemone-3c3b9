@@ -1,7 +1,7 @@
 {
     "header": {
         "title": "Starter",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Features",
