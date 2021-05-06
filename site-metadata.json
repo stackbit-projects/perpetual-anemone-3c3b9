@@ -30,7 +30,7 @@
             },
             {
                 "label": "Sign Up",
-                "url": "#",
+                "url": "#/signup",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
